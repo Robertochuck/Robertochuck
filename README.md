@@ -12,7 +12,7 @@ Olá! Sou um apaixonado aprendiz de Python e entusiasta em busca de me aprimorar
 
 ## Habilidades e Ferramentas
 
-- **Linguagens de Programação:** Python, HTML, CSS, JavaScript
-- **Frameworks e Bibliotecas:** Flask, Django, Bootstrap
-- **Banco de Dados:** MySQL, PostgreSQL
+- **Linguagens de Programação:** Python, HTML, JavaScript
+- **Frameworks e Bibliotecas:** Django
+- **Banco de Dados:** 
 - **Controle de Versão:** Git, GitHub
